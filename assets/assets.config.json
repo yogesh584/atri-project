@@ -1,0 +1,113 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "heroImage.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "app_image_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_image_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_image_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_image_4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_image_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_image_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_image_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_image_4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about_section_image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "location_icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail_icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone_icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "item1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item6.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "item7.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger_image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "stars.PNG": {
+    "mime": "image/png"
+  },
+  "testimonial_image.jpg": {
+    "mime": "image/jpeg"
+  },
+  "image1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "image2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "image3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "image4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "image5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "post_image_6.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
